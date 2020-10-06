@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MadLevel2Task2</string>
+    <string name="quiz_title">Quiz Instructions</string>
+    <string name="quiz_instructions">Swipe right for true, left for false</string>
+    <string name="quiz_1">A "var" and a val are the same.</string>
+    <string name="quiz_2">Mobile Application Development grants 12 ECTS.</string>
+    <string name="quiz_3">A Unit in Kotlin corresponds to a void in Java.</string>
+    <string name="quiz_4">In Kotlin "when" replaces the "switch" operator in Java.</string>
+    <string name="correct">That was the correct answer.</string>
+    <string name="wrong">That was the incorrect answer.</string>
+</resources>
